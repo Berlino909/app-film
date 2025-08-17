@@ -1,0 +1,41 @@
+✅ PROMPT – App “Where to Watch Movies”
+Voglio creare un’app mobile chiamata “Where to Watch Movies” che permetta agli utenti di cercare qualsiasi contenuto audiovisivo (film, serie TV, documentari, eventi sportivi, programmi TV, ecc.) e scoprire dove può essere guardato in streaming o in TV, tramite i dati del sito JustWatch.
+L’app deve essere moderna, minimale e ottimizzata per mobile (iOS e Android, compatibile con tutti i dispositivi).
+🧠 Funzionalità principali:
+•	Barra di ricerca centrale con icona lente per cercare contenuti
+•	Sopra la barra, mostra:
+o	il saluto: “Ciao, [nome email]”
+o	il nome dell’app: “Where to Watch Movies”
+o	in alto a sinistra, un menu (icona hamburger) che apre una sidebar (sezione chiamata “11”)
+📋 Sidebar (sezione 11)
+Include:
+•	Profilo utente
+•	Cronologia ricerche (con data e ora; cliccabile per riaprire i risultati)
+•	Selettore lingua: scegli tra le 50 lingue più parlate + italiano
+•	Selettore tema (scuro/chiaro)
+•	Logout
+🔍 Risultati di ricerca (sezione 55)
+Dopo l’invio della ricerca, l’utente viene portato a una pagina dove vede:
+•	Sfondo personalizzato: immagine in alta qualità del contenuto cercato, con sfondo rimosso (in stile disegno nero o bianco, a seconda del tema scelto)
+•	Poster ufficiale preso da Pinterest (link immagine)
+•	Lista piattaforme dove guardare (con logo di Netflix, Prime Video, ecc.)
+•	Per film/serie: trailer, breve descrizione (max 5 righe), data di uscita
+•	Per eventi live: orario, canale TV o piattaforma dove vederlo in diretta
+•	Pulsante “indietro” per tornare alla barra di ricerca (sezione 99)
+👤 Account utente
+•	Registrazione via email e password (prima chiede email, poi password)
+•	Oppure login con Gmail (apre finestra di selezione account)
+•	Salva i dati nel database (cronologia, preferenze, account)
+🎨 Design
+•	Stile minimal, pulito e responsive
+•	Tema chiaro o scuro selezionabile (testi e icone a contrasto)
+•	Supporto per tutti i dispositivi mobili
+🌐 Multilingua
+•	Supporta le 50 lingue più parlate al mondo + italiano
+🔗 Fonti dati:
+•	JustWatch API per cercare contenuti e piattaforme
+•	Pinterest per le immagini da usare come sfondo o copertina
+📌 Logo app:
+Usa questo logo come immagine principale dell’app:
+https://e7.pngegg.com/pngimages/573/1018/png-clipart-white-tv-illustration-television-android-tv-logo-old-tv-love-text.png
+
